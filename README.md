@@ -1,16 +1,16 @@
-### Hi there 👋
+## Introduction 
+Name : 김예원
 
-<!--
-**Yetwo/Yetwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Birth : 2004.08.07
 
-Here are some ideas to get you started:
+Sex : Female
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career
+School: YeungNam University
+
+Major : Computer Science Engineering
+
+## Links
+- E-mail : yewon20004@naver.com
+- Phone : 010-9481-8663
+
