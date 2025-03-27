@@ -3,8 +3,6 @@
 
 - 2004.08.07
 
-- Female
-
 - Gyeongsan, South Korea
 
 
